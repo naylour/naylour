@@ -36,12 +36,28 @@ Student developer with hands-on experience across the full stack — from low-le
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-**Tools & Infra**
+**Web**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logo=git&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+
+**Data**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![uv](https://img.shields.io/badge/uv-261230?style=for-the-badge&logoColor=white)
+![mise](https://img.shields.io/badge/mise-2D2D2D?style=for-the-badge&logoColor=white)
+![hk](https://img.shields.io/badge/hk-2D2D2D?style=for-the-badge&logoColor=white)
+![fnox](https://img.shields.io/badge/fnox-2D2D2D?style=for-the-badge&logoColor=white)
+![moonrepo](https://img.shields.io/badge/moonrepo-7C3AED?style=for-the-badge&logoColor=white)
 
 ---
 
