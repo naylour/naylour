@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@naylour__bus-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/naylour_bus)
+[![Telegram](https://img.shields.io/badge/Telegram-@naylour-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/naylour)
 
 </div>
 
@@ -25,7 +25,6 @@ Student developer with hands-on experience across the full stack — from low-le
 - Interested in **compilers, OS internals, and developer tooling**
 - This repo is a work-in-progress personal site / blog
 
----
 
 ## Stack
 
@@ -34,7 +33,7 @@ Student developer with hands-on experience across the full stack — from low-le
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+<!--![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)-->
 
 **Web**
 
@@ -59,7 +58,6 @@ Student developer with hands-on experience across the full stack — from low-le
 ![fnox](https://img.shields.io/badge/fnox-2D2D2D?style=for-the-badge&logoColor=white)
 ![moonrepo](https://img.shields.io/badge/moonrepo-7C3AED?style=for-the-badge&logoColor=white)
 
----
 
 ## GitHub Stats
 
@@ -69,19 +67,5 @@ Student developer with hands-on experience across the full stack — from low-le
 <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=naylour&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&langs_count=6" height="165" />
 
 <img src="https://streak-stats.demolab.com?user=naylour&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=a8b2d8&sideLabels=a8b2d8&dates=a8b2d8&currStreakNum=ffffff&sideNums=ffffff" width="49%" />
-
-</div>
-
----
-
-## Currently Building
-
-> **Personal site & blog** — this very repo. A place to write about systems programming, tools I build, and things I learn along the way.
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" width="100%" />
 
 </div>
