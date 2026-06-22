@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" />
+<a href="https://t.me/naylour">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="brand/BannerDark.png">
+		<img src="brand/BannerLight.png" alt="Naylour. It's me" />
+	</picture>
+</a>
 
 <br/>
 
